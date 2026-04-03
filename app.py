@@ -1,12 +1,12 @@
 """
-Claude Piano — Streamlit Web App
+Rishky Piano — Streamlit Web App
 Interactive piano playable with your MacBook keyboard.
 """
 import streamlit as st
 from pathlib import Path
 
 st.set_page_config(
-    page_title="Claude Piano",
+    page_title="Rishky Piano",
     page_icon="🎹",
     layout="wide",
     initial_sidebar_state="collapsed",

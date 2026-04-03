@@ -1,4 +1,4 @@
-# 🎹 Claude Piano
+# 🎹 Rishky Piano
 
 A state-of-the-art interactive piano playable with your **MacBook Air keyboard**. Built with Python, Streamlit, and the Web Audio API.
 
@@ -38,8 +38,8 @@ A state-of-the-art interactive piano playable with your **MacBook Air keyboard**
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/claude-piano.git
-cd claude-piano
+git clone https://github.com/YOUR_USERNAME/rishky-piano.git
+cd rishky-piano
 
 # Install
 pip install streamlit
